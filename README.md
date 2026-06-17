@@ -1,4 +1,5 @@
 <img width="225" height="225" alt="1000119834" src="https://github.com/user-attachments/assets/7c326273-5ab3-41e1-a601-0649b70bcce3" />
+
 Bomb stations get an accurate CCIP impact-point computer for toss and dive bombing — but non-combat airdrops never did, even though they fall under the exact same ballistics. NO-AIDS fixes that with no UI changes you'll notice: it's the same HUD you already know from bombing, now active for cargo too.
 
 ## What it does
